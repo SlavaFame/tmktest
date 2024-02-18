@@ -1,5 +1,7 @@
 # tmktest
 ## Тестовое задание в ТМК++ на позицию фронтенд-разработчика.
+## Stack: Vue 3, Javascript, Typescript
+
 ## Project setup
 ```
 npm install
@@ -19,6 +21,3 @@ npm run build
 ```
 npm run lint
 ```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
